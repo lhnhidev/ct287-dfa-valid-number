@@ -1,4 +1,4 @@
-namespace DfaInteger;
+namespace DfaInteger.DfaInteger.Main;
 
 public static class Integer
 {

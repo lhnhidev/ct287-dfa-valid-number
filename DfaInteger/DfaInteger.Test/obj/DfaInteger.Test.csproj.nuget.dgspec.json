@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.csproj": {}
+    "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.Test\\DfaInteger.Test.csproj": {}
   },
   "projects": {
-    "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.csproj": {
+    "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.Test\\DfaInteger.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.csproj",
-        "projectName": "DfaInteger",
-        "projectPath": "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.csproj",
+        "projectUniqueName": "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.Test\\DfaInteger.Test.csproj",
+        "projectName": "DfaInteger.Test",
+        "projectPath": "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.Test\\DfaInteger.Test.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\CT287\\TH05062026\\DfaInteger\\obj\\",
+        "outputPath": "D:\\CT287\\TH05062026\\DfaInteger\\DfaInteger.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,17 +53,21 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
-            "xunit.abstractions": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[2.0.3, )"
+              "version": "[17.14.1, )"
             },
-            "xunit.assert": {
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "xunit": {
               "target": "Package",
               "version": "[2.9.3, )"
             },
-            "xunit.extensibility.core": {
+            "xunit.runner.visualstudio": {
               "target": "Package",
-              "version": "[2.9.3, )"
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
