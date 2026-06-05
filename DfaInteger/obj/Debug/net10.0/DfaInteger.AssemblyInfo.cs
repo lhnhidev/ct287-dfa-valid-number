@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DfaInteger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc1a827fa1d5733daea160c09e5a64827c372aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DfaInteger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DfaInteger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
